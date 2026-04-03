@@ -33,8 +33,8 @@ The application interacts with a **Laravel API** secured using **Laravel Sanctum
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/watchlist-frontend.git
-cd watchlist-frontend
+git clone https://github.com/Oussamatiu/React-Movie-Tracker.git
+cd React-Movie-Tracker
 ```
 
 ### 2. Install dependencies
