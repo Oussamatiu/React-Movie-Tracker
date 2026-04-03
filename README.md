@@ -144,9 +144,3 @@ This project demonstrates:
 
 ---
 
-## 📌 Improvements (Optional)
-
-- Add screenshots  
-- Deploy on Vercel or Netlify  
-- Add error handling & loading states  
-- Use Context API or Redux for state management  
