@@ -142,5 +142,5 @@ This project demonstrates:
 - Implementing authentication with Sanctum  
 - Structuring a scalable frontend project  
 
----
+
 
