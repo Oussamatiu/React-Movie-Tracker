@@ -86,12 +86,49 @@ headers: {
 
 ```
 src/
-├── components/
+├── api/
+│   └── auth.jsx
+│
+├── auth/
+│   ├── Login.jsx
+│   └── Register.jsx
+│
 ├── pages/
-├── services/
-├── context/
-├── App.jsx
-└── main.jsx
+│   ├── Dashboard.jsx
+│   ├── Home.jsx
+│   └── LandingPage.jsx
+│
+├── routes/
+│   ├── GuestRoute.jsx
+│   └── ProtectedRoute.jsx
+│
+├── components/
+│   ├── Button.jsx
+│   ├── Input.jsx
+│   ├── Label.jsx
+│   ├── Header.jsx
+│   ├── Footer.jsx
+│
+│   ├── layout/
+│   │   ├── Layout.jsx
+│   │   ├── Header.jsx
+│   │   └── Footer.jsx
+│
+│   └── landingPage/
+│       ├── HeroSection.jsx
+│       ├── FeaturesStrip.jsx
+│       ├── CtaBanner.jsx
+│       ├── FilmCard.jsx
+│       └── WatchlistSection.jsx
+│
+├── App.js
+├── App.css
+├── index.js
+├── index.css
+├── App.test.js
+├── setupTests.js
+└── reportWebVitals.js
+
 ```
 
 ---
